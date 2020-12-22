@@ -1,0 +1,16 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "ScmType": "None",
+    "AzureWebJobsSecretStorageType": "files",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "csantosdb_DOCUMENTDB": "AccountEndpoint=https://csantosdb.documents.azure.com:443/;AccountKey=YlunnBeMWF8qjGl4ZIU4BD89f1W9NsrcPjb8ziueB6ncd2e9Dq8b5Ven1lgiT9J9sMcoprb2IK7i4sBSBvvHyQ==;",
+    "APPLICATIONINSIGHTS_CONNECTION_STRING": "InstrumentationKey=d583df81-a47a-4096-afd5-f896455e7752;IngestionEndpoint=https://centralus-0.in.applicationinsights.azure.com/",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "d583df81-a47a-4096-afd5-f896455e7752",
+    "WEBSITE_NODE_DEFAULT_VERSION": "12.18.0",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "WEBSITE_SITE_NAME": "csantostarefa",
+    "WEBSITE_SLOT_NAME": "Production"
+  }
+}
